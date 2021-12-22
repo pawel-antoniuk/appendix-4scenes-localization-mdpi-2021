@@ -1,4 +1,4 @@
-# Software Repository - Spatial Audio Scene Characterization (SASC): Automatic Lo-calization of Front, Back, Up, and Down-Positioned Music Ensembles in Binaural Recordings
+# Software Repository - Spatial Audio Scene Characterization (SASC): Automatic Localization of Front, Back, Up, and Down-Positioned Music Ensembles in Binaural Recordings
 This repository consists of scripts and data useful to replicate the experiments described in the paper "Spatial Audio Scene Characterization (SASC): Automatic Localization of Front, Back, Up, and Down-Positioned Music En-sembles in Binaural Recordings".
 
 ## Structure
