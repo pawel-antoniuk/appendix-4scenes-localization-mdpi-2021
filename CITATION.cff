@@ -5,7 +5,7 @@ authors:
   given-names: "Sławomir K."
 - family-names: "Antoniuk"
   given-names: "Paweł"
-title: "Spatial Audio Scene Characterization (SASC): Automatic Lo-calization of Front, Back, Up, and Down-Positioned Music Ensembles in Binaural Recordings"
+title: "Spatial Audio Scene Characterization (SASC): Automatic Localization of Front, Back, Up, and Down-Positioned Music Ensembles in Binaural Recordings"
 version: 1.0.0
 date-released: 2021-11-01
 url: "https://github.com/pawel-antoniuk/appendix-paper-front-back-eurasip-2021"
