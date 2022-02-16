@@ -1,11 +1,17 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "Zieliński"
-  given-names: "Sławomir K."
-- family-names: "Antoniuk"
-  given-names: "Paweł"
-title: "Spatial Audio Scene Characterization (SASC): Automatic Localization of Front, Back, Up, and Down-Positioned Music Ensembles in Binaural Recordings"
 version: 1.0.0
 date-released: 2021-11-01
 url: "https://github.com/pawel-antoniuk/appendix-paper-front-back-eurasip-2021"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Zieliński"
+    given-names: "Sławomir K."
+  - family-names: "Antoniuk"
+    given-names: "Paweł"
+  - family-names: "Hyunkook"
+    given-names: "Lee"
+  - family-names: "Dale"
+    given-names: "Johnson"
+  journal: "EURASIP Journal on Audio, Speech, and Music Processing"
+  title: "Automatic discrimination between front and back ensemble locations in HRTF-convolved binaural recordings of music"
+  year: 2021
